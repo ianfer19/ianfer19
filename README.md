@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20there,%20I'm%20Ian%20Fernández&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud%20Developer%20|%20AWS%20Infrastructure%20%26%20GenAI&descAlignY=55&descAlign=50&descColor=ffffff" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Ian+Fern%C3%A1ndez+%F0%9F%90%8D;Backend+%26+Cloud+Developer;AWS+Infrastructure+%7C+Python+%7C+GenAI" alt="Typing SVG" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
 
 ### 🚀 Sobre Mí
 
-¡Hola! Soy **Ingeniero de Sistemas** (en proceso de graduación en la Universidad de Córdoba) enfocado en el desarrollo **Backend & Cloud Architecture**. 
+¡Hola! Soy **Ingeniero de Sistemas** (graduación esperada: 10 de septiembre de 2026 en la Universidad de Córdoba) enfocado en el desarrollo **Backend & Cloud Architecture**. 
 
 Cuento con experiencia diseñando e implementando **infraestructuras de alta disponibilidad y tolerancia a fallos en AWS** (ECS, EC2, ALB, Auto Scaling), así como **arquitecturas Serverless**, sistemas **Multi-Tenant SaaS** e integraciones con **Inteligencia Artificial Generativa**.
 
@@ -67,16 +71,10 @@ Mi enfoque principal combina **arquitectura de software resiliente, escalabilida
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/ianfer19">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ianfer19&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ianfer19 stats" height="160" />
-  </a>
-  <a href="https://github.com/ianfer19">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfer19&layout=compact&theme=tokyonight&hide_border=true" alt="ianfer19 languages" height="160" />
-  </a>
-</div>
-<br clear="both">
-<br>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ianfer19&show_icons=true&theme=tokyonight&hide_border=true" alt="ianfer19 stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ianfer19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="ianfer19 languages" width="48%" />
+</p>
 
 ---
 
