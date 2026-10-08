@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Iam+Fern%C3%A1ndez+%F0%9F%90%8D;Backend+%26+Cloud+Developer;AWS+Infrastructure+%7C+Python+%7C+GenAI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Iam+Fern%C3%A1ndez+%F0%9F%90%8D;Backend+%26+Cloud+Engineer;AWS+%7C+Python+%7C+IaC+%7C+GenAI+Agents" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,11 +10,9 @@
 
 ### 🚀 Sobre Mí
 
-¡Hola! Soy **Ingeniero de Sistemas** (graduación esperada: 10 de septiembre de 2026 en la Universidad de Córdoba) enfocado en el desarrollo **Backend & Cloud Architecture**. 
+¡Hola! Soy **Ingeniero de Sistemas** (Universidad de Córdoba) especializado en **Backend & Arquitectura Cloud**. 
 
-Cuento con experiencia diseñando e implementando **infraestructuras de alta disponibilidad y tolerancia a fallos en AWS** (ECS, EC2, ALB, Auto Scaling), así como **arquitecturas Serverless**, sistemas **Multi-Tenant SaaS** e integraciones con **Inteligencia Artificial Generativa**.
-
-Mi enfoque principal combina **arquitectura de software resiliente, escalabilidad de bases de datos, seguridad de la nube y optimización de costos**.
+Tengo experiencia en el diseño, construcción y operación de aplicaciones distribuidas y resilientes utilizando **Python (Django/FastAPI)** y el ecosistema **AWS** (ECS Fargate, Serverless, Event-Driven). Apasionado por la **Infraestructura como Código (Terraform)**, la optimización de rendimiento/costos, seguridad cloud (IAM Least Privilege, WAF) y el desarrollo de **Agentes de IA Generativa** (Amazon Bedrock, LangGraph) aplicados a entornos B2B.
 
 ---
 
@@ -23,23 +21,23 @@ Mi enfoque principal combina **arquitectura de software resiliente, escalabilida
 **Cloud, DevOps & Infraestructura (AWS Core)**
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_ECS_Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-**Backend & Databases**
+**Backend, Architecture & Databases**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_Aurora-412991?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis_/_ElastiCache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/ElastiCache_(Redis)-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 **Generative AI & Modern Stack**
 <br>
@@ -50,22 +48,26 @@ Mi enfoque principal combina **arquitectura de software resiliente, escalabilida
 
 ---
 
-### 🌟 Proyectos Destacados
+### 🌟 Proyecto Destacado
 
-**[IAStock](https://ia-stock.com) | Plataforma SaaS B2B para HORECA y Retail** *(Creador & Desarrollador)*
-* Arquitectura Multi-Tenant desplegada con AWS SAM, S3 y CloudFront, garantizando aislamiento de datos por tenant a nivel de backend y seguridad.
-* Base de datos optimizada en DynamoDB (Single-Table Design) logrando latencias <10ms, combinada con almacenamiento seguro de archivos e imágenes.
-* Integración de agentes inteligentes con **LangGraph + Amazon Bedrock** con enrutamiento dinámico de modelos para optimizar costos.
+**[IAStock](https://www.iamfernandezdev.com) | Plataforma SaaS B2B Multi-Tenant (HORECA & Retail)** *(Creator & Cloud / Backend Engineer)*
+- **Arquitectura Backend & DDD:** Construida en Python (Django REST Framework) y Angular 17 aplicando *Clean Architecture*, *Domain-Driven Design (DDD)* y *Vertical Slicing* estructurada en 18 dominios de negocio.
+- **Infraestructura IaC con Terraform:** Despliegue modular en AWS gestionando ECS Fargate Multi-AZ, ALB, DynamoDB, S3, SQS FIFO/Standard, SNS, EventBridge y Secrets Manager.
+- **Single-Table Design & Seguridad:** Modelo Multi-Tenant en DynamoDB (PK/SK, GSIs, transacciones atómicas), autenticación con AWS Cognito y RBAC granular.
+- **DevOps & OIDC:** Pipelines CI/CD en GitHub Actions sin credenciales estáticas de AWS utilizando autenticación OIDC.
+- **Agentes de IA Generativa:** Integración omnicanal (WhatsApp/Instagram) con Amazon Bedrock, Gemini y orquestación multiagente con LangGraph usando routing dinámico de LLMs (Claude/Llama).
+- **FinOps & Observabilidad:** Monitoreo con CloudWatch/Container Insights y reducción del 70% en costos de cómputo combinando Fargate Spot, DynamoDB On-Demand y Scheduled Scaling.
 
 ---
 
 ### 💼 Experiencia Relevante
 
-**Appu Store MBR SAS** — *Full-Stack / Backend & Cloud Developer* *(Sept 2024 - Ene 2026)*
-* **Infraestructura & HA:** Configuración de arquitectura de alta disponibilidad en AWS mediante Amazon ECS, Application Load Balancers (ALB) y Auto Scaling Groups para gestionar picos de tráfico.
-* **Seguridad & Resiliencia:** Mitigación de incidentes de seguridad en producción en ~20 minutos implementando AWS WAF con reglas de geolocalización y mitigación de bots.
-* **Optimización Serverless & Caching:** Migración de servicios críticos a AWS Lambda + API Gateway y reducción de latencia de 800ms a 100ms mediante Amazon ElastiCache y tuning de acceso a datos.
-* **DevOps:** Automatización de despliegues (CI/CD) con GitHub Actions e Infraestructura como Código (IaC) usando CloudFormation.
+**Appu Store MBR SAS** — *Full-Stack Developer (Backend & Cloud)* *(Sept 2024 - Ene 2026)*
+- **Arquitectura Escalable & Serverless:** Configuración de contenedores en AWS ECS con Auto Scaling y migración de componentes críticos a AWS Lambda + API Gateway, eliminando caídas en picos de tráfico para ~10,000 usuarios activos.
+- **Optimización de Latencia:** Reducción de latencia en base de datos de 800 ms a 100 ms (-87.5%) mediante Amazon ElastiCache y tuning de patrones de acceso en DynamoDB y S3.
+- **Facturación a Escala:** Desarrollo de módulo de facturación electrónica asíncrona (APIs Siigo y Yabi) procesando más de 80,000 facturas mensuales.
+- **Seguridad Cloud:** Mitigación de ataques en producción en ~20 minutos aplicando reglas avanzadas en AWS WAF, ACLs geolocalizadas y detección de bots.
+- **Mobile & CI/CD:** Participación en app móvil multiplataforma en React Native (Google Play) con billetera virtual y pasarela Wompi; pipelines CI/CD y automatización de eventos con EventBridge.
 
 ---
 
@@ -80,7 +82,7 @@ Mi enfoque principal combina **arquitectura de software resiliente, escalabilida
 
 <div align="center">
   <p><b>¡Conectemos!</b></p>
-  <a href="https://www.linkedin.com/in/alejandro-fernandez/" target="_blank">
+  <a href="https://www.linkedin.com/in/iam-fern%C3%A1ndez-%C3%A1lvarez-2a1541241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.iamfernandezdev.com" target="_blank">
